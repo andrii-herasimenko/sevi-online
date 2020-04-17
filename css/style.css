@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Playfair+Display:700&display=swap');
 body{
 	font: 400 22px/1.9 'Nunito Sans', sans-serif;
-	background: url(/img/main.jpg) no-repeat right top; 
+	background: url(../img/main.jpg) no-repeat right top; 
 	margin: 0;
 	padding: 0;
 }
