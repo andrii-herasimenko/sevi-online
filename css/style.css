@@ -227,7 +227,7 @@ select {
     width: 500px;
   }
 }
-.ba-form label {
+.ba-form div {
   position: relative;
 }
 
@@ -239,7 +239,7 @@ select {
   position: absolute;
   right: 7px;
   margin-right: 12px;
-  top: -4px;
+  top: 20px;
 }
 
 .ba-resources {
